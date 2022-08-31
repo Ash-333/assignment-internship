@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+   scroll-behavior: smooth;
+   scroll-padding-top: 75px;
+}
+
+.more-text{
+  float: right;
+  color: #0D6EFD;
+  margin-left: 5px;
+}
+
+.new-arrivals{
+  padding: 15px;
+  margin-bottom: 25px;
+}
+
+.image-carsouel{
+  height: 75vh;
+}
